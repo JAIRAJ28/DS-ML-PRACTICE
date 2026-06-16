@@ -1,0 +1,566 @@
+work_year,experience_level,employment_type,job_title,employee_residence,remote_ratio,company_location,company_size,salary_in_usd
+2020,MI,FT,Data Scientist,DE,0,DE,L,79833
+2020,SE,FT,Machine Learning Scientist,JP,0,JP,S,260000
+2020,SE,FT,Big Data Engineer,GB,50,GB,M,109024
+2020,MI,FT,Product Data Analyst,HN,0,HN,S,20000
+2020,SE,FT,Machine Learning Engineer,US,50,US,L,150000
+2020,EN,FT,Data Analyst,US,100,US,L,72000
+2020,SE,FT,Lead Data Scientist,US,100,US,S,190000
+2020,MI,FT,Data Scientist,HU,50,HU,L,35735
+2020,MI,FT,Business Data Analyst,US,100,US,L,135000
+2020,SE,FT,Lead Data Engineer,NZ,50,NZ,S,125000
+2020,EN,FT,Data Scientist,FR,0,FR,S,51321
+2020,MI,FT,Data Scientist,IN,0,IN,L,40481
+2020,EN,FT,Data Scientist,FR,0,FR,M,39916
+2020,MI,FT,Lead Data Analyst,US,100,US,L,87000
+2020,MI,FT,Data Analyst,US,100,US,L,85000
+2020,MI,FT,Data Analyst,PK,50,PK,L,8000
+2020,EN,FT,Data Engineer,JP,100,JP,S,41689
+2020,SE,FT,Big Data Engineer,PL,100,GB,S,114047
+2020,EN,FT,Data Science Consultant,IN,50,IN,M,5707
+2020,MI,FT,Lead Data Engineer,PT,100,US,M,56000
+2020,MI,FT,Machine Learning Engineer,CN,0,CN,M,43331
+2020,MI,FT,Product Data Analyst,IN,100,IN,L,6072
+2020,SE,FT,Data Engineer,GR,50,GR,L,47899
+2020,MI,FT,BI Data Analyst,US,0,US,M,98000
+2020,MI,FT,Lead Data Scientist,AE,0,AE,L,115000
+2020,EX,FT,Director of Data Science,US,100,US,L,325000
+2020,EN,FT,Research Scientist,NL,50,NL,L,42000
+2020,SE,FT,Data Engineer,MX,0,MX,S,33511
+2020,EN,CT,Business Data Analyst,US,100,US,L,100000
+2020,SE,FT,Machine Learning Manager,CA,50,CA,L,117104
+2020,MI,FT,Data Engineering Manager,DE,100,DE,S,59303
+2020,EN,FT,Big Data Engineer,US,100,US,L,70000
+2020,SE,FT,Data Scientist,GR,100,US,L,68428
+2020,MI,FT,Research Scientist,US,0,US,M,450000
+2020,MI,FT,Data Analyst,FR,50,FR,L,46759
+2020,MI,FT,Data Engineer,AT,50,AT,L,74130
+2020,MI,FT,Data Science Consultant,US,100,US,L,103000
+2020,EN,FT,Machine Learning Engineer,US,50,US,L,250000
+2020,EN,FT,Data Analyst,NG,100,NG,S,10000
+2020,EN,FT,Machine Learning Engineer,US,100,US,S,138000
+2020,MI,FT,Data Scientist,PH,100,US,S,45760
+2020,EX,FT,Data Engineering Manager,ES,50,ES,L,79833
+2020,MI,FT,Machine Learning Infrastructure Engineer,PT,0,PT,M,50180
+2020,MI,FT,Data Engineer,US,100,US,L,106000
+2020,MI,FT,Data Engineer,GB,50,GB,L,112872
+2020,EN,PT,ML Engineer,DE,100,DE,S,15966
+2020,MI,FT,Data Scientist,GB,100,GB,S,76958
+2020,SE,FT,Data Engineer,US,100,US,L,188000
+2020,MI,FT,Data Scientist,US,100,US,L,105000
+2020,MI,FT,Data Engineer,FR,50,FR,L,70139
+2020,EN,FT,Data Analyst,IN,0,IN,S,6072
+2020,EN,FT,Data Analyst,US,100,US,L,91000
+2020,EN,FT,AI Scientist,DK,50,DK,S,45896
+2020,EN,FT,Data Engineer,PK,100,DE,L,54742
+2020,SE,FL,Computer Vision Engineer,RU,100,US,S,60000
+2020,SE,FT,Principal Data Scientist,DE,100,DE,M,148261
+2020,MI,FT,Data Scientist,ES,100,ES,M,38776
+2020,MI,FT,Data Scientist,US,100,US,M,118000
+2020,SE,FT,Data Scientist,US,50,US,L,120000
+2020,MI,FT,Data Scientist,US,100,US,M,138350
+2020,MI,FT,Data Engineer,US,100,US,L,110000
+2020,MI,FT,Data Engineer,ES,100,US,M,130800
+2020,EN,PT,Data Scientist,IT,50,IT,S,21669
+2020,SE,FT,Data Scientist,US,100,US,L,412000
+2020,SE,FT,Machine Learning Engineer,HR,100,HR,S,45618
+2020,EN,FT,Data Scientist,DE,50,DE,S,62726
+2020,EN,FT,Data Scientist,DE,0,DE,S,49268
+2020,SE,FT,Data Science Manager,US,100,US,M,190200
+2020,EN,FT,Data Scientist,US,100,US,S,105000
+2020,SE,FT,Data Scientist,AT,0,AT,S,91237
+2020,MI,FT,Data Scientist,FR,50,LU,S,62726
+2020,MI,FT,Data Scientist,FR,50,FR,S,42197
+2021,EN,FT,Research Scientist,GB,50,GB,L,82528
+2021,EX,FT,BI Data Analyst,IN,100,US,L,150000
+2021,EX,FT,Head of Data,US,100,US,L,235000
+2021,SE,FT,Data Scientist,FR,50,FR,L,53192
+2021,MI,FT,BI Data Analyst,US,100,US,M,100000
+2021,MI,PT,3D Computer Vision Researcher,IN,50,IN,M,5409
+2021,MI,CT,ML Engineer,US,100,US,L,270000
+2021,EN,FT,Data Analyst,US,100,US,M,80000
+2021,SE,FT,Data Analytics Engineer,DE,100,DE,L,79197
+2021,MI,FT,Data Engineer,US,100,US,L,140000
+2021,MI,FT,Applied Data Scientist,GB,50,CA,L,54238
+2021,MI,FT,Machine Learning Engineer,ES,100,ES,S,47282
+2021,EX,FT,Director of Data Science,IT,100,PL,L,153667
+2021,MI,FT,Data Engineer,PL,100,PL,L,28476
+2021,EN,FT,Data Analyst,FR,50,FR,M,59102
+2021,MI,FT,Data Analytics Engineer,US,100,US,L,110000
+2021,SE,FT,Lead Data Analyst,US,100,US,L,170000
+2021,SE,FT,Data Analyst,BG,100,US,S,80000
+2021,SE,FT,Marketing Data Analyst,GR,100,DK,L,88654
+2021,EN,FT,Data Science Consultant,DE,100,DE,S,76833
+2021,MI,FT,Lead Data Analyst,IN,100,IN,L,19609
+2021,SE,FT,Lead Data Engineer,US,0,US,L,276000
+2021,EN,FT,Data Scientist,IN,50,IN,L,29751
+2021,MI,FT,Cloud Data Engineer,SG,50,SG,L,89294
+2021,EN,PT,AI Scientist,BR,100,US,S,12000
+2021,MI,FT,Financial Data Analyst,US,100,US,L,450000
+2021,EN,FT,Computer Vision Software Engineer,US,100,US,M,70000
+2021,MI,FT,Computer Vision Software Engineer,DE,100,US,S,95746
+2021,MI,FT,Data Analyst,US,0,US,L,75000
+2021,SE,FT,Data Engineer,US,100,US,L,150000
+2021,MI,FT,BI Data Analyst,HU,50,US,L,36259
+2021,MI,FT,Data Analyst,US,0,US,L,62000
+2021,MI,FT,Data Scientist,US,0,US,L,73000
+2021,MI,FT,Data Analyst,GB,50,GB,L,51519
+2021,MI,FT,Research Scientist,CA,100,CA,L,187442
+2021,SE,FT,Data Engineer,US,100,US,S,115000
+2021,SE,FT,Data Engineer,US,100,US,M,150000
+2021,EN,FT,Data Engineer,IN,100,IN,L,30428
+2021,SE,FT,Machine Learning Engineer,DE,50,DE,L,94564
+2021,SE,FT,Director of Data Engineering,GB,100,GB,M,113476
+2021,SE,FT,Lead Data Engineer,GB,100,GB,S,103160
+2021,EN,PT,AI Scientist,PK,100,US,M,12000
+2021,MI,FT,Data Engineer,NL,100,NL,L,45391
+2021,EN,FT,Machine Learning Scientist,US,100,US,L,225000
+2021,MI,FT,Data Scientist,NG,100,NG,L,50000
+2021,MI,FT,Data Science Engineer,GR,100,GR,M,40189
+2021,EN,FT,Data Analyst,US,100,US,S,90000
+2021,MI,FT,Data Engineer,US,100,US,L,200000
+2021,MI,FT,Big Data Engineer,ES,50,RO,M,60000
+2021,SE,FT,Principal Data Engineer,US,100,US,M,200000
+2021,EN,FT,Data Analyst,US,100,US,M,50000
+2021,EN,FT,Applied Data Scientist,GB,0,GB,L,110037
+2021,EN,PT,Data Analyst,ES,50,ES,M,10354
+2021,MI,FT,Principal Data Scientist,US,100,US,L,151000
+2021,SE,FT,Machine Learning Scientist,US,50,US,S,120000
+2021,MI,FT,Data Scientist,IN,0,IN,S,9466
+2021,EN,FT,Machine Learning Engineer,IN,100,IN,S,20000
+2021,SE,FT,Lead Data Scientist,IN,50,IN,L,40570
+2021,EN,FT,Machine Learning Developer,IQ,50,IQ,S,100000
+2021,EN,FT,Data Scientist,FR,50,FR,M,49646
+2021,MI,FT,Applied Machine Learning Scientist,VN,100,US,M,38400
+2021,SE,FT,Computer Vision Engineer,BR,100,BR,M,24000
+2021,EN,FT,Data Scientist,US,0,US,S,100000
+2021,MI,FT,Data Analyst,US,100,US,M,90000
+2021,MI,FT,ML Engineer,JP,50,JP,S,63711
+2021,MI,FT,ML Engineer,JP,50,JP,S,77364
+2021,SE,FT,Principal Data Scientist,US,0,US,L,220000
+2021,EN,FT,Data Scientist,US,100,US,M,80000
+2021,MI,FT,Data Analyst,US,100,US,L,135000
+2021,SE,FT,Data Science Manager,US,0,US,L,240000
+2021,SE,FT,Data Engineering Manager,US,0,US,L,150000
+2021,MI,FT,Data Scientist,US,100,US,S,82500
+2021,MI,FT,Data Engineer,US,100,US,L,100000
+2021,SE,FT,Machine Learning Engineer,BE,50,BE,M,82744
+2021,MI,FT,Research Scientist,FR,50,FR,M,62649
+2021,MI,FT,Data Engineer,US,100,US,L,90000
+2021,SE,FT,Data Engineering Manager,US,100,US,L,153000
+2021,SE,FT,Cloud Data Engineer,BR,100,US,S,160000
+2021,SE,FT,Director of Data Science,JP,0,JP,S,168000
+2021,MI,FT,Data Scientist,US,100,US,M,150000
+2021,MI,FT,Data Scientist,CA,100,CA,L,75774
+2021,EN,FT,Data Scientist,UA,100,UA,L,13400
+2021,SE,FT,Data Science Manager,US,100,US,L,144000
+2021,SE,FT,Data Science Engineer,CA,50,CA,L,127221
+2021,MI,FT,Data Scientist,SG,100,IL,M,119059
+2021,MI,FT,Applied Machine Learning Scientist,US,50,US,L,423000
+2021,SE,FT,Data Analytics Manager,US,100,US,M,120000
+2021,EN,FT,Machine Learning Engineer,US,100,US,S,125000
+2021,EX,FT,Head of Data,RU,50,RU,L,230000
+2021,EX,FT,Head of Data Science,RU,0,RU,M,85000
+2021,MI,FT,Data Engineer,MT,50,MT,L,28369
+2021,EN,FT,Data Science Consultant,DE,50,DE,L,63831
+2021,EX,FT,Director of Data Science,DE,50,DE,M,130026
+2021,SE,FT,Data Specialist,US,100,US,L,165000
+2021,EN,FT,Data Engineer,US,100,US,L,80000
+2021,EX,FT,Director of Data Science,US,0,US,L,250000
+2021,EN,FT,BI Data Analyst,US,50,US,S,55000
+2021,MI,FT,Data Architect,US,100,US,L,150000
+2021,MI,FT,Data Architect,US,100,US,L,170000
+2021,MI,FT,Data Engineer,GB,100,GB,L,82528
+2021,EN,FT,Data Analyst,US,100,US,S,60000
+2021,SE,FT,Principal Data Scientist,US,100,US,L,235000
+2021,SE,FT,Research Scientist,PT,50,PT,L,60757
+2021,SE,FT,Data Engineering Manager,US,100,US,L,174000
+2021,MI,FT,Data Scientist,MX,0,MX,S,2859
+2021,MI,FT,Data Scientist,CL,100,CL,L,40038
+2021,EN,FT,Machine Learning Engineer,US,50,US,S,81000
+2021,MI,FT,Data Scientist,IN,100,US,S,5679
+2021,MI,FT,Big Data Engineer,IN,0,IN,L,22611
+2021,MI,FT,Data Scientist,DE,50,DE,L,90734
+2021,MI,FT,Data Engineer,RO,0,US,L,26005
+2021,SE,FT,Finance Data Analyst,GB,50,GB,L,61896
+2021,MI,FL,Machine Learning Scientist,PK,50,PK,M,12000
+2021,MI,FT,Data Engineer,IR,100,IR,M,4000
+2021,SE,FT,Data Analytics Engineer,VN,100,GB,M,50000
+2021,EX,FT,Data Science Consultant,FR,100,ES,S,69741
+2021,SE,FT,Data Engineer,RO,50,GB,S,76833
+2021,MI,FT,Machine Learning Engineer,JP,50,JP,S,74000
+2021,SE,FT,Data Science Manager,US,100,FR,L,152000
+2021,EN,FT,Machine Learning Engineer,CO,50,CO,M,21844
+2021,MI,FT,Big Data Engineer,MD,0,MD,S,18000
+2021,SE,FT,Data Science Manager,US,100,US,L,174000
+2021,SE,FT,Research Scientist,CA,50,CA,L,96113
+2021,MI,FT,Data Scientist,US,50,US,L,147000
+2021,EN,FT,BI Data Analyst,KE,100,KE,S,9272
+2021,SE,FT,Machine Learning Engineer,IN,100,IN,L,24342
+2021,SE,FT,Data Science Manager,IN,50,US,L,54094
+2021,EN,FT,Data Science Consultant,US,100,US,S,90000
+2021,MI,FT,Data Scientist,DE,50,AT,M,61467
+2021,SE,FT,Machine Learning Infrastructure Engineer,US,100,US,M,195000
+2021,MI,FT,Data Scientist,ES,100,ES,L,37825
+2021,SE,FT,Research Scientist,FR,100,US,S,50000
+2021,MI,FT,Data Scientist,US,100,US,L,160000
+2021,MI,FT,Data Scientist,BR,0,BR,S,12901
+2021,SE,FT,Machine Learning Engineer,US,100,US,L,200000
+2021,SE,FT,Data Engineer,US,0,US,M,165000
+2021,MI,FL,Data Engineer,IT,0,US,L,20000
+2021,SE,FT,Data Analytics Manager,US,0,US,L,120000
+2021,MI,FT,Machine Learning Engineer,SI,50,SI,L,24823
+2021,MI,FT,Research Scientist,FR,50,FR,S,56738
+2021,MI,FT,Data Engineer,HK,50,GB,S,66022
+2021,EN,FT,Big Data Engineer,IN,0,CH,L,5882
+2021,EN,FT,Machine Learning Engineer,DE,50,DE,M,24823
+2021,SE,FT,Principal Data Engineer,US,100,US,L,185000
+2021,EN,PT,Computer Vision Engineer,DK,50,DK,S,28609
+2021,MI,FT,Machine Learning Engineer,BE,100,BE,M,88654
+2021,SE,FT,Data Analytics Manager,US,100,US,L,140000
+2021,MI,FT,Machine Learning Engineer,PL,100,PL,L,46597
+2021,MI,FT,Data Scientist,GB,50,GB,L,116914
+2021,MI,FT,Data Scientist,IN,0,IN,M,33808
+2021,MI,FT,Data Scientist,GB,50,GB,L,56256
+2021,SE,FT,Machine Learning Scientist,US,100,CA,L,225000
+2021,EX,CT,Principal Data Scientist,US,100,US,S,416000
+2021,SE,FT,Data Scientist,CA,100,CA,S,87738
+2021,MI,FT,Data Scientist,DE,50,DE,L,88654
+2021,SE,FT,Data Scientist,US,0,US,L,135000
+2021,SE,FT,Data Analyst,CA,100,CA,M,71786
+2021,EN,FT,Big Data Engineer,IN,100,IN,L,16228
+2021,SE,FT,ML Engineer,US,100,US,S,256000
+2021,SE,FT,Director of Data Engineering,US,100,US,L,200000
+2021,SE,FT,Data Analyst,US,100,US,L,200000
+2021,MI,FT,Data Architect,US,100,US,L,180000
+2021,MI,FT,Head of Data Science,US,0,US,S,110000
+2021,MI,FT,Research Scientist,CA,100,CA,M,63810
+2021,MI,FT,Data Scientist,ES,100,ES,M,46809
+2021,EN,FT,Data Scientist,VN,0,VN,M,4000
+2021,EN,FT,Data Engineer,IN,50,IN,M,21637
+2021,SE,FT,Data Scientist,CA,100,CA,L,103691
+2021,MI,FT,Data Analyst,US,100,US,L,80000
+2021,MI,FT,Data Engineer,US,100,US,L,110000
+2021,SE,FT,Data Scientist,US,100,US,L,165000
+2021,EN,FT,AI Scientist,IN,100,AS,S,18053
+2021,MI,FT,Data Engineer,GB,50,GB,L,72212
+2021,EN,FT,Data Scientist,FR,50,FR,L,36643
+2021,MI,FT,Data Engineer,TR,0,TR,M,12103
+2021,SE,FT,Data Engineer,GB,50,GB,L,96282
+2021,SE,FT,Principal Data Analyst,US,100,US,M,170000
+2021,MI,FT,Data Scientist,US,50,US,L,115000
+2021,EN,FT,Data Scientist,US,100,US,S,90000
+2021,EX,FT,Principal Data Engineer,US,100,US,L,600000
+2021,EN,FT,Data Scientist,IN,100,IN,M,28399
+2021,MI,FT,Data Analyst,US,100,US,L,93000
+2021,SE,FT,Big Data Architect,CA,50,CA,M,99703
+2021,SE,FT,Principal Data Scientist,DE,100,DE,M,173762
+2021,SE,FT,Machine Learning Engineer,US,50,US,L,185000
+2021,EX,FT,Director of Data Science,DE,0,DE,L,141846
+2021,MI,FT,Data Scientist,US,50,US,L,130000
+2021,SE,FT,Data Analyst,DE,50,DE,L,63831
+2021,MI,FT,Data Scientist,IN,100,IN,S,16904
+2021,SE,FT,Machine Learning Engineer,IN,0,IN,L,66265
+2021,MI,FT,Data Scientist,RS,100,DE,S,25532
+2021,SE,FT,Lead Data Engineer,PR,50,US,S,160000
+2021,MI,FT,Data Engineer,US,0,US,M,93150
+2021,MI,FT,Data Engineer,US,0,US,M,111775
+2021,MI,FT,Data Engineer,TR,100,TR,M,28016
+2021,EN,FT,Data Engineer,DE,50,DE,M,65013
+2021,EN,FT,Data Engineer,US,100,US,L,72500
+2021,SE,FT,Computer Vision Engineer,BR,0,BR,M,18907
+2021,EN,FT,Data Science Consultant,DE,0,DE,L,76833
+2021,EN,FT,Machine Learning Engineer,NL,100,DE,S,85000
+2021,SE,FT,Data Scientist,FR,50,FR,M,77684
+2021,EN,FT,Data Scientist,US,100,US,M,100000
+2021,EN,FT,Data Scientist,US,50,US,L,58000
+2021,SE,FT,AI Scientist,ES,100,ES,L,55000
+2021,SE,FT,Data Scientist,TR,50,TR,L,20171
+2021,EN,FT,Business Data Analyst,LU,100,LU,L,59102
+2021,MI,FT,Data Engineer,US,100,US,L,112000
+2021,EN,FT,Research Scientist,JE,0,CN,L,100000
+2021,MI,PT,Data Engineer,NL,100,NL,L,69741
+2021,SE,CT,Staff Data Scientist,US,100,US,M,105000
+2021,MI,FT,Research Scientist,CZ,50,CZ,L,69999
+2021,SE,FT,Data Science Manager,IN,50,IN,L,94665
+2021,SE,FT,Head of Data,SI,100,SI,L,102839
+2021,MI,FT,Data Scientist,US,50,US,L,109000
+2021,MI,FT,Machine Learning Engineer,IT,50,IT,L,51064
+2022,SE,FT,Data Engineer,US,100,US,M,135000
+2022,SE,FT,Data Analyst,US,100,US,M,155000
+2022,SE,FT,Data Analyst,US,100,US,M,120600
+2022,MI,FT,Data Scientist,US,0,US,M,130000
+2022,MI,FT,Data Scientist,US,0,US,M,90000
+2022,MI,FT,Data Engineer,US,100,US,M,170000
+2022,MI,FT,Data Engineer,US,100,US,M,150000
+2022,SE,FT,Data Analyst,US,100,US,M,102100
+2022,SE,FT,Data Analyst,US,100,US,M,84900
+2022,SE,FT,Data Scientist,US,100,US,M,136620
+2022,SE,FT,Data Scientist,US,100,US,M,99360
+2022,SE,FT,Data Scientist,GB,0,GB,M,117789
+2022,SE,FT,Data Scientist,GB,0,GB,M,104702
+2022,SE,FT,Data Scientist,US,100,US,M,146000
+2022,SE,FT,Data Scientist,US,100,US,M,123000
+2022,EN,FT,Data Engineer,GB,100,GB,M,52351
+2022,SE,FT,Data Analyst,US,0,US,M,99000
+2022,SE,FT,Data Analyst,US,0,US,M,116000
+2022,MI,FT,Data Analyst,US,0,US,M,106260
+2022,MI,FT,Data Analyst,US,0,US,M,126500
+2022,EX,FT,Data Engineer,US,100,US,M,242000
+2022,EX,FT,Data Engineer,US,100,US,M,200000
+2022,MI,FT,Data Scientist,GB,0,GB,M,65438
+2022,MI,FT,Data Scientist,GB,0,GB,M,39263
+2022,MI,FT,Data Engineer,GB,0,GB,M,78526
+2022,MI,FT,Data Engineer,GB,0,GB,M,52351
+2022,SE,FT,Data Scientist,US,100,US,M,165220
+2022,EN,FT,Data Engineer,GB,100,GB,M,45807
+2022,SE,FT,Data Scientist,US,100,US,M,120160
+2022,SE,FT,Data Analyst,US,100,US,M,90320
+2022,SE,FT,Data Engineer,US,0,US,M,181940
+2022,SE,FT,Data Engineer,US,0,US,M,132320
+2022,SE,FT,Data Engineer,US,0,US,M,220110
+2022,SE,FT,Data Engineer,US,0,US,M,160080
+2022,SE,FT,Data Scientist,US,0,US,L,180000
+2022,SE,FT,Data Scientist,US,0,US,L,120000
+2022,SE,FT,Data Analyst,US,100,US,M,124190
+2022,EX,FT,Data Analyst,US,100,US,M,130000
+2022,EX,FT,Data Analyst,US,100,US,M,110000
+2022,SE,FT,Data Analyst,US,100,US,M,170000
+2022,MI,FT,Data Analyst,US,100,US,M,115500
+2022,SE,FT,Data Analyst,US,100,US,M,112900
+2022,SE,FT,Data Engineer,US,100,US,M,165400
+2022,SE,FT,Data Engineer,US,100,US,M,132320
+2022,MI,FT,Data Analyst,US,100,US,M,167000
+2022,SE,FT,Data Engineer,US,100,US,M,243900
+2022,SE,FT,Data Analyst,US,100,US,M,136600
+2022,SE,FT,Data Analyst,US,100,US,M,109280
+2022,SE,FT,Data Engineer,US,100,US,M,128875
+2022,SE,FT,Data Engineer,US,100,US,M,93700
+2022,EX,FT,Head of Data Science,US,100,US,M,224000
+2022,EX,FT,Head of Data Science,US,100,US,M,167875
+2022,EX,FT,Analytics Engineer,US,100,US,M,175000
+2022,SE,FT,Data Engineer,US,100,US,M,156600
+2022,SE,FT,Data Engineer,US,0,US,M,108800
+2022,SE,FT,Data Scientist,US,0,US,M,95550
+2022,SE,FT,Data Engineer,US,0,US,L,113000
+2022,SE,FT,Data Analyst,US,100,US,M,135000
+2022,SE,FT,Data Science Manager,US,100,US,M,161342
+2022,SE,FT,Data Science Manager,US,100,US,M,137141
+2022,SE,FT,Data Scientist,US,100,US,M,167000
+2022,SE,FT,Data Engineer,GB,0,GB,M,78526
+2022,SE,FT,Data Engineer,GB,0,GB,M,65438
+2022,SE,FT,Data Scientist,US,0,US,M,150000
+2022,SE,FT,Data Scientist,US,100,US,M,211500
+2022,SE,FT,Data Architect,CA,100,CA,M,192400
+2022,SE,FT,Data Architect,CA,100,CA,M,90700
+2022,SE,FT,Data Analyst,CA,100,CA,M,130000
+2022,SE,FT,Data Analyst,CA,100,CA,M,61300
+2022,SE,FT,Data Engineer,US,0,US,L,160000
+2022,SE,FT,Data Scientist,US,100,US,M,138600
+2022,SE,FT,Data Engineer,US,0,US,M,136000
+2022,MI,FT,Data Analyst,US,0,US,S,58000
+2022,EX,FT,Analytics Engineer,US,100,US,M,135000
+2022,SE,FT,Data Scientist,US,100,US,M,170000
+2022,SE,FT,Machine Learning Engineer,US,0,US,M,189650
+2022,SE,FT,Machine Learning Engineer,US,0,US,M,164996
+2022,MI,FT,ETL Developer,GR,0,GR,M,54957
+2022,EX,FT,Lead Data Engineer,CA,100,CA,S,118187
+2022,SE,FT,Data Analyst,US,0,US,M,132000
+2022,SE,FT,Data Architect,US,100,US,M,208775
+2022,SE,FT,Data Architect,US,100,US,M,147800
+2022,SE,FT,Data Engineer,US,100,US,M,136994
+2022,SE,FT,Data Engineer,US,100,US,M,101570
+2022,SE,FT,Data Analyst,US,100,US,M,128875
+2022,SE,FT,Data Analyst,US,100,US,M,93700
+2022,EX,FT,Head of Machine Learning,IN,50,IN,L,79039
+2022,EN,FT,Machine Learning Engineer,GB,100,GB,L,37300
+2022,SE,FT,Data Analyst,US,0,US,M,164000
+2022,SE,FT,Data Engineer,US,100,US,M,155000
+2022,MI,FT,Machine Learning Engineer,GB,0,GB,M,124333
+2022,MI,FT,Machine Learning Engineer,GB,0,GB,M,98158
+2022,MI,FT,AI Scientist,US,0,US,M,120000
+2022,SE,FT,Data Analytics Manager,US,100,US,M,145000
+2022,SE,FT,Data Analytics Manager,US,100,US,M,105400
+2022,MI,FT,Machine Learning Engineer,FR,100,DE,M,87932
+2022,MI,FT,Data Engineer,GB,0,GB,M,117789
+2022,SE,FT,Data Scientist,US,100,US,L,215300
+2022,SE,FT,Data Scientist,US,100,US,L,158200
+2022,SE,FT,Data Engineer,US,100,US,L,209100
+2022,SE,FT,Data Engineer,US,100,US,L,154600
+2022,SE,FT,Data Analyst,US,0,US,M,115934
+2022,SE,FT,Data Analyst,US,0,US,M,81666
+2022,SE,FT,Data Engineer,US,100,US,M,175000
+2022,MI,FT,Data Engineer,GB,0,GB,M,98158
+2022,SE,FT,Data Engineer,US,100,US,L,183600
+2022,MI,FT,Data Analyst,GB,100,GB,M,52351
+2022,SE,FT,Data Scientist,US,100,US,M,180000
+2022,MI,FT,Data Scientist,GB,0,GB,M,71982
+2022,MI,FT,Data Scientist,GB,0,GB,M,45807
+2022,MI,FT,Data Engineer,GR,100,GR,M,65949
+2022,MI,FT,Data Engineer,GR,100,GR,M,49461
+2022,MI,FT,Data Engineer,GB,100,GB,M,78526
+2022,MI,FT,Data Engineer,GB,100,GB,M,58894
+2022,SE,FT,Data Scientist,US,100,US,M,260000
+2022,SE,FT,Data Science Engineer,AR,100,MX,L,60000
+2022,MI,FT,Data Engineer,US,0,US,M,63900
+2022,MI,FT,Machine Learning Scientist,US,100,US,L,160000
+2022,MI,FT,Machine Learning Scientist,US,100,US,L,112300
+2022,MI,FT,Data Science Manager,US,100,US,M,241000
+2022,MI,FT,Data Science Manager,US,100,US,M,159000
+2022,SE,FT,Data Scientist,US,0,US,M,180000
+2022,SE,FT,Data Scientist,US,0,US,M,80000
+2022,MI,FT,Data Engineer,US,0,US,M,82900
+2022,SE,FT,Data Engineer,US,100,US,L,100800
+2022,MI,FT,Data Engineer,ES,100,ES,M,49461
+2022,SE,FT,Data Scientist,US,0,US,L,140400
+2022,MI,FT,Data Analyst,GB,100,GB,M,39263
+2022,MI,FT,Data Analyst,ES,100,ES,M,43966
+2022,MI,FT,Data Analyst,ES,100,ES,M,32974
+2022,MI,FT,Data Engineer,ES,100,ES,M,87932
+2022,MI,FT,Data Engineer,ES,100,ES,M,76940
+2022,MI,FT,Data Engineer,GB,100,GB,M,104702
+2022,MI,FT,Data Engineer,GB,100,GB,M,91614
+2022,MI,FT,Data Engineer,ES,100,ES,M,65949
+2022,MI,FT,Data Engineer,GR,100,GR,M,87932
+2022,MI,FT,Data Analyst,GR,100,GR,M,43966
+2022,MI,FT,Data Analyst,GR,100,GR,M,32974
+2022,MI,FT,Data Engineer,GB,100,GB,M,98158
+2022,SE,FT,Data Scientist,US,0,US,L,215300
+2022,MI,FT,Data Engineer,GR,100,GR,M,76940
+2022,SE,FT,Data Engineer,US,100,US,M,180000
+2022,EN,FT,ML Engineer,PT,100,PT,L,21983
+2022,SE,FT,Data Engineer,US,100,US,M,80000
+2022,MI,FT,Machine Learning Developer,CA,100,CA,M,78791
+2022,EX,FT,Director of Data Science,CA,50,CA,L,196979
+2022,MI,FT,Machine Learning Engineer,US,100,US,S,120000
+2022,EN,FT,Computer Vision Engineer,US,0,US,M,125000
+2022,MI,FT,NLP Engineer,US,50,US,L,37236
+2022,SE,FT,Data Engineer,US,100,US,M,105000
+2022,SE,FT,Lead Machine Learning Engineer,DE,0,DE,M,87932
+2022,MI,FT,Business Data Analyst,IN,100,IN,M,18442
+2022,MI,FT,Data Scientist,IN,100,IN,L,31615
+2022,MI,FT,Machine Learning Infrastructure Engineer,PT,50,PT,L,58255
+2022,EN,FT,Financial Data Analyst,US,50,US,L,100000
+2022,MI,PT,Data Engineer,DE,50,DE,L,54957
+2022,EN,FT,Data Scientist,IN,100,IN,M,18442
+2022,SE,FT,Principal Data Scientist,DE,100,DE,M,162674
+2022,EN,FT,Data Engineer,US,100,US,M,120000
+2022,SE,FT,Research Scientist,US,50,US,L,144000
+2022,SE,FT,Data Scientist,US,100,US,M,104890
+2022,SE,FT,Data Engineer,US,100,US,M,100000
+2022,SE,FT,Data Scientist,US,100,US,M,140000
+2022,MI,FT,Data Analyst,US,100,US,M,135000
+2022,MI,FT,Data Analyst,US,100,US,M,50000
+2022,SE,FT,Data Scientist,US,100,US,M,220000
+2022,MI,FT,Data Scientist,GB,0,GB,M,183228
+2022,MI,FT,Data Scientist,GB,0,GB,M,91614
+2022,SE,FT,Data Scientist,US,100,US,M,185100
+2022,SE,FT,Machine Learning Engineer,US,100,US,M,220000
+2022,MI,FT,Data Scientist,US,100,US,M,200000
+2022,MI,FT,Data Scientist,US,100,US,M,120000
+2022,SE,FT,Machine Learning Engineer,AE,100,AE,S,120000
+2022,SE,FT,Machine Learning Engineer,AE,100,AE,S,65000
+2022,EX,FT,Data Engineer,US,100,US,M,324000
+2022,EX,FT,Data Engineer,US,100,US,M,216000
+2022,SE,FT,Data Engineer,US,100,US,M,210000
+2022,SE,FT,Machine Learning Engineer,US,100,US,M,120000
+2022,SE,FT,Data Scientist,US,100,US,M,230000
+2022,EN,PT,Data Scientist,DZ,50,DZ,M,100000
+2022,MI,FL,Data Scientist,CA,100,US,M,100000
+2022,EN,CT,Applied Machine Learning Scientist,TN,100,CZ,M,31875
+2022,SE,FT,Head of Data,MY,100,US,M,200000
+2022,MI,FT,Principal Data Analyst,CA,100,CA,S,75000
+2022,MI,FT,Data Scientist,PL,100,PL,L,35590
+2022,SE,FT,Machine Learning Developer,CA,100,CA,M,78791
+2022,SE,FT,Data Scientist,BR,100,US,M,100000
+2022,MI,FT,Machine Learning Scientist,US,50,US,M,153000
+2022,EN,FT,Data Engineer,PK,100,DE,M,58035
+2022,SE,FT,Data Scientist,US,100,US,M,165000
+2022,SE,FT,Research Scientist,FR,50,FR,L,93427
+2022,EN,FT,Data Scientist,CA,100,CA,L,52396
+2022,SE,FT,Machine Learning Engineer,NL,100,NL,L,62651
+2022,MI,FT,Head of Data,EE,100,EE,S,32974
+2022,EN,FT,Data Scientist,JP,100,MY,L,40000
+2022,MI,FT,Machine Learning Engineer,AU,100,AU,L,87425
+2022,SE,FT,Data Engineer,US,100,US,M,115000
+2022,EN,FT,Data Scientist,AU,50,AU,M,86703
+2022,MI,FT,Applied Machine Learning Scientist,BO,100,US,L,75000
+2022,MI,FT,Research Scientist,AT,0,AT,L,64849
+2022,EN,FT,Research Scientist,US,100,US,L,120000
+2022,MI,FT,Applied Data Scientist,US,100,US,L,157000
+2022,EN,FT,Computer Vision Software Engineer,AU,100,AU,S,150000
+2022,MI,FT,Business Data Analyst,CA,50,CA,L,70912
+2022,EN,FT,Data Engineer,US,100,US,S,65000
+2022,SE,FT,Machine Learning Engineer,IE,100,IE,S,71444
+2022,EN,FT,Data Analytics Engineer,PK,0,PK,M,20000
+2022,MI,FT,Data Scientist,RU,100,US,S,48000
+2022,SE,FT,Data Science Manager,US,100,US,M,152500
+2022,MI,FT,Data Engineer,FR,100,FR,M,68147
+2022,MI,FT,Data Scientist,CH,0,CH,L,122346
+2022,SE,FT,Applied Data Scientist,US,100,US,L,380000
+2022,MI,FT,Data Scientist,CA,100,CA,M,69336
+2022,EN,FT,Computer Vision Engineer,PT,100,LU,M,10000
+2022,MI,FT,Data Analyst,GR,100,GR,S,20000
+2022,SE,FT,Data Analytics Lead,US,100,US,L,405000
+2022,MI,FT,Data Scientist,US,100,US,L,135000
+2022,SE,FT,Applied Data Scientist,US,100,US,L,177000
+2022,MI,FT,Data Scientist,US,100,US,M,78000
+2022,SE,FT,Data Analyst,US,100,US,M,100000
+2022,MI,FT,Data Analyst,CA,0,CA,M,85000
+2022,MI,FT,Data Analyst,CA,0,CA,M,75000
+2022,SE,FT,Machine Learning Engineer,US,100,US,M,214000
+2022,SE,FT,Machine Learning Engineer,US,100,US,M,192600
+2022,SE,FT,Data Architect,US,100,US,M,266400
+2022,SE,FT,Data Architect,US,100,US,M,213120
+2022,MI,FT,Data Scientist,US,0,US,M,141300
+2022,MI,FT,Data Scientist,US,0,US,M,102100
+2022,SE,FT,Data Analyst,US,100,US,M,115934
+2022,SE,FT,Data Analyst,US,100,US,M,81666
+2022,MI,FT,Data Engineer,US,0,US,M,206699
+2022,MI,FT,Data Engineer,US,0,US,M,99100
+2022,SE,FT,Data Engineer,US,100,US,M,130000
+2022,SE,FT,Data Engineer,US,100,US,M,110500
+2022,SE,FT,Data Analyst,US,100,US,M,99050
+2022,SE,FT,Data Engineer,US,100,US,M,160000
+2022,SE,FT,Data Scientist,US,0,US,L,205300
+2022,SE,FT,Data Scientist,US,100,US,M,176000
+2022,SE,FT,Data Scientist,US,100,US,M,144000
+2022,SE,FT,Data Engineer,US,100,US,M,200100
+2022,SE,FT,Data Engineer,US,100,US,M,145000
+2022,SE,FT,Data Engineer,US,0,US,M,70500
+2022,SE,FT,Data Scientist,US,0,US,M,205300
+2022,SE,FT,Data Scientist,US,0,US,M,140400
+2022,SE,FT,Analytics Engineer,US,0,US,M,205300
+2022,SE,FT,Analytics Engineer,US,0,US,M,184700
+2022,SE,FT,Data Engineer,US,100,US,M,175100
+2022,SE,FT,Data Engineer,US,100,US,M,140250
+2022,SE,FT,Data Analyst,US,100,US,M,116150
+2022,SE,FT,Data Engineer,US,0,US,M,54000
+2022,MI,FT,Data Analyst,GB,0,GB,M,65438
+2022,SE,FT,Data Analyst,US,100,US,M,80000
+2022,SE,FT,Data Scientist,US,100,US,M,210000
+2022,SE,FT,Data Analyst,US,100,US,M,69000
+2022,SE,FT,Data Analyst,US,100,US,M,150075
+2022,SE,FT,Data Engineer,US,100,US,M,25000
+2022,SE,FT,Data Analyst,US,100,US,M,126500
+2022,SE,FT,Data Analyst,US,100,US,M,106260
+2022,SE,FT,Data Engineer,US,100,US,M,220110
+2022,SE,FT,Data Engineer,US,100,US,M,160080
+2022,SE,FT,Data Analyst,US,100,US,M,105000
+2022,SE,FT,Data Analyst,US,100,US,M,110925
+2022,MI,FT,Data Analyst,GB,0,GB,M,45807
+2022,SE,FT,Data Analyst,US,100,US,M,60000
+2022,SE,FT,Data Architect,US,100,US,M,192564
+2022,SE,FT,Data Architect,US,100,US,M,144854
+2022,SE,FT,Data Scientist,US,100,US,M,150000
+2022,SE,FT,Data Analytics Manager,US,100,US,M,150260
+2022,SE,FT,Data Analytics Manager,US,100,US,M,109280
+2022,MI,FT,Data Scientist,US,100,US,M,160000
+2022,MI,FT,Data Scientist,US,100,US,M,130000
+2022,EN,FT,Data Analyst,CA,0,CA,M,67000
+2022,EN,FT,Data Analyst,CA,0,CA,M,52000
+2022,SE,FT,Data Engineer,US,100,US,M,154000
+2022,SE,FT,Data Engineer,US,100,US,M,126000
+2022,SE,FT,Data Analyst,US,0,US,M,129000
+2022,SE,FT,Data Analyst,US,100,US,M,150000
+2022,MI,FT,AI Scientist,IN,100,US,L,200000
