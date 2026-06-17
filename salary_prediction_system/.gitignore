@@ -1,0 +1,29 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local config
+.streamlit/secrets.toml
